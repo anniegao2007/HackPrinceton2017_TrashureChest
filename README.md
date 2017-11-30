@@ -6,4 +6,4 @@ can receive through email communication with the owners. Users can take pictures
 the photo gallery, add labels and their contact info (hidden from the main screen), and add to the list of available items.
 Keyword search is also enabled to help users find specific items or related items.
 
-**Disclaimer: this app only works locally; data is not retained after the application stops.
+**Disclaimer: this app only works locally; data is not retained after the application stops. 
